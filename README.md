@@ -1,3 +1,5 @@
+
+# DataEnrichment
 Instructions:
 Create a Github repo called ‘data-enrichment’ in your account, and write python code that will enrich SPARCS.csv with
 public health information from the Neighborhood Atlas and if you want to, but not manditory, you can choose another dataset of your choice
@@ -16,8 +18,6 @@ The data that you decide to enrich with, should be based/linked to either a zipc
 PLEASE NOTE: if you run into any issues and can not fully complete this assignment, please submit via github as much as you can by the deadline; i will be doing a 'soft' grade as discussed and reviewing your attempt, and not docking any points if you can not get it to work - what i want to see is your attempt. thus if you run into any issues, please upload screen shots to your github repo of the errors you ran into, and describe your thought process for how you attempted to go about, but perhaps ultimately unsuccessful in removing said errors
 
 
-
-# DataEnrichment
 
 NOTE TO PROFESSOR:
 
