@@ -21,9 +21,8 @@ PLEASE NOTE: if you run into any issues and can not fully complete this assignme
 
 NOTE TO PROFESSOR:
 
-The *.csv files are large. Github is not able to receive the files and code.
-I was able to run code with no error in local VS Code.
+The *.csv files are large. Github is not able to receive the Data files.  I hid the data files in .gitignore file.
+I now run through with no error.  I added the 2 new output files (combined_dff.csv & combined_df.csv) for your reference. 
 
-After i hid the *.csv files in .gitignore....(so that i can push to GITHUP) and ran the code again, i ran into error the "file not found."
 
-Please advise.
+
